@@ -1,0 +1,5 @@
+./level0 423
+-> Ouverture de sh en mode level1
+whoami
+level1
+cat /home/user/level1/.pass
